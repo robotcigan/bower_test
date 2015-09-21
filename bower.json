@@ -1,0 +1,16 @@
+{
+  "name": "fartmoney",
+  "version": "0.0.0",
+  "authors": [
+    "Арсений Иванов"
+  ],
+  "description": "fartmoney",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  },
+  "ignore": [
+    "bower_components"
+  ]
+}
